@@ -27,7 +27,7 @@ Here are a few projects I've been working on lately.
 ### 🛠️ Tech & Skills
 
 * **Languages:** Python, MATLAB
-* **Fields of Interest:** Control Theory,Power Electronics & Electric Drives, Robotics, Electric Machines, Machine Learning, Computer Vision
+* **Fields of Interest:** Control Theory, Power Electronics & Electric Drives, Robotics, Electric Machines, Machine Learning, Computer Vision
 
 ---
 

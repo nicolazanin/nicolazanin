@@ -12,11 +12,11 @@ Here are a few projects I've been working on lately.
 
 1.  **⚡ Electric Machines**
     * University project focused on the design and dimensioning of a three-phase transformer and an asynchronous machine.
-    * **[Go to Repository]([https://github.com/nicolazanin/Progettazione-di-Macchine-Elettriche])**
+    * **[Go to Repository](https://github.com/nicolazanin/Progettazione-di-Macchine-Elettriche)**
 
 2.  **🤖 Robotic Control System**
     * Implementation of a control system for a 2-link robot, focusing on trajectory tracking with parabolic blends.
-    * **[Go to Repository]([https://github.com/nicolazanin/Esercitazioni-Robotica/tree/main/esercitazione_7])**
+    * **[Go to Repository](https://github.com/nicolazanin/Esercitazioni-Robotica/tree/main/esercitazione_7)**
 
 3. 
 
@@ -25,7 +25,7 @@ Here are a few projects I've been working on lately.
 ### 🛠️ Tech & Skills
 
 * **Languages:** Python, MATLAB
-* **Fields of Interest:** Control Theory, Electric Machines, Robotics, Power Electronics & Electric Drives, Machine Learning, Computer Vision
+* **Fields of Interest:** Control Theory,Power Electronics & Electric Drives, Robotics, Electric Machines, Machine Learning, Computer Vision
 
 ---
 

@@ -6,7 +6,7 @@ I'm a Master's student in **Energy and Digital Sysytems Engineering** with a str
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Academic Projects
 
 Here are a few projects I've been working on lately.
 
@@ -18,7 +18,9 @@ Here are a few projects I've been working on lately.
     * Implementation of a control system for a 2-link robot, focusing on trajectory tracking with parabolic blends.
     * **[Go to Repository](https://github.com/nicolazanin/Esercitazioni-Robotica/tree/main/esercitazione_7)**
 
-3. 
+3.  **📈 Mathematical Optimisation (Work in Progress)**
+    * Implementation of a Mixed-Integer Linear Programming (MILP) model to optimize the location of charging stations for electric aircraft, aiming to maximize regional connectivity.
+    * The project includes the implementation of a **Kernel Search** heuristic to solve large-scale instances of the problem, based on the paper by Kinene et al. (2023).
 
 ---
 

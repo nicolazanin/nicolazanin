@@ -31,4 +31,4 @@ Here are a few projects I've been working on lately.
 
 ### 📫 Get In Touch
 
-* **LinkedIn:** [linkedin.com/in/nicolazaninoo](https://www.linkedin.com/in/nicolazaninoo)
+* **LinkedIn:** [linkedin.com/in/nicolazanin00](https://www.linkedin.com/in/nicolazanin00)
